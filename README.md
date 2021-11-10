@@ -1,12 +1,11 @@
 # Lending Club Case Study (EDA)
-    The aim of this project is to identify the factors of the high risk applicant who are much likely to default.
+   The aim of this project is to identify the factors of the high risk applicant who are much likely to default.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -32,19 +31,13 @@
 - Seaborn
 
 ## Conclusions
-    1. Gradation system may be used as a reliable indicator. Probability of default increases linearly with worsening grade.
-    2. Loan applicant with annual income below 10000 more likely to default compare to others.
-    3. Loan should be approved after careful scrutiny for person with lower income,  who opted for longer term loan and higher interest rate
-    4. Person taking loan for small business purpose is more likely to default
-    5. History of public record bankruptcy is an early warning sign of possible future default.
-    6. Loan amount above 25000 is more likely to default. It should be sanctioned only after considering grade and other mentioned indicators
-    7. Charge off percentage increases when the interest rate is increased.
-    8. Also longer term increases the chances of getting defaulted.
+1. Gradation system may be used as a reliable indicator. Probability of default increases linearly with worsening grade.
+2. Loan applicant with annual income below 10000 more likely to default compare to others.
+3. Loan should be approved after careful scrutiny for person with lower income,  who opted for longer term loan and higher interest rate
+4. Person taking loan for small business purpose is more likely to default
+5. History of public record bankruptcy is an early warning sign of possible future default.
+6. Loan amount above 25000 is more likely to default. It should be sanctioned only after considering grade and other mentioned indicators
+7. Charge off percentage increases when the interest rate is increased.
+8. Also longer term increases the chances of getting defaulted.
 
-## Methodology 
-
-- Data Understanding
-- Data Manipulation and cleaning
-- Exploratory Data Analysis
-- Recommendations
 
